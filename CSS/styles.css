@@ -1,0 +1,54 @@
+#btnRetiro 
+{
+background:#96c93d; 
+border: 0px;
+transition-duration: 0.3s;
+font-family: poppins;
+font-size: 1.6rem;
+}
+
+#btnRetiro:hover{
+    transition-duration: 0.3s;
+    background:  #00b09b; 
+    border: 0px;
+}
+
+.list-group{
+    font-family: 'Raleway';
+    font-weight: bolder;
+}
+
+.list-group-item 
+{
+    background: #ffff;
+    color: white;
+}
+
+.list-group-item  span {
+    background: #00b09b;
+    padding: 10px;
+    margin: 2px;
+    font-family: poppins;
+    border-radius: 5px;
+}
+
+#info
+{
+    margin: 15px;
+    height: 2rem;
+}
+
+#btnReinicar 
+{
+background:#00b09b; 
+border: 0px;
+transition-duration: 0.3s;
+font-family: poppins;
+font-size: 1.6rem;
+}
+
+#btnReinicar:hover{
+    transition-duration: 0.3s;
+    background:  #96c93d; 
+    border: 0px;
+}
